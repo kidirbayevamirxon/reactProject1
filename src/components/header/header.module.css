@@ -9,14 +9,14 @@
     justify-content: space-between;
     align-items: center;
     padding: 20px 50px;
-    background-color: #f8f9fa;
+    background-color: #4b4b4b;
     border-bottom: 3px solid #5a5959f3;
     
 }
 .logo{
     font-size: 32px;
     font-weight: 900;
-    color: #212529;
+    color: #ffffff86;
 }
 .item{
     display: flex;
@@ -30,7 +30,7 @@ a{
     text-decoration: none;
 }
 .style{
-    color: #212529;
+    color: #fff;
     font-size: 22px;
     font-weight: 500;
 }
