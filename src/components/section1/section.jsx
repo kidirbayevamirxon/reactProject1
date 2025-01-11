@@ -1,7 +1,7 @@
 import classess from "./section.module.css";
-import img from "../image/Без названия (1).jpg";
-import img1 from "../image/images.jpg";
-import img2 from "../image/images (1).jpg";
+import img from "../../assets/Без названия (1).jpg";
+import img1 from "../../assets/images.jpg";
+import img2 from "../../assets/images (1).jpg";
 export function Section() {
   return (
     <>
